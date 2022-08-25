@@ -1,5 +1,6 @@
 return {
   extension = {
+    ['astro'] = [[astro]],
     ['ncl'] = [[text]],
     ['ph'] = [[perl]],
     ['al'] = [[perl]],
